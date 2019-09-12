@@ -12,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FahrenheitToCelsiusConversion.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FahrenheitToCelsiusConversion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/examples/FahrenheitToCelsiusConversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="510">
+              <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PaintCalculator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/examples/PaintCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -51,6 +60,7 @@
         <option value="$PROJECT_DIR$/src/examples/percentages.java" />
         <option value="$PROJECT_DIR$/src/examples/MetricConversion.java" />
         <option value="$PROJECT_DIR$/src/examples/FahrenheitToCelsiusConversion.java" />
+        <option value="$PROJECT_DIR$/src/examples/PaintCalculator.java" />
       </list>
     </option>
   </component>
@@ -65,6 +75,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -88,7 +99,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -112,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FahrenheitToCelsiusConversion">
+  <component name="RunManager" selected="Application.PaintCalculator">
     <configuration name="FahrenheitToCelsiusConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="examples.FahrenheitToCelsiusConversion" />
       <module name="Chapter-3" />
@@ -135,8 +145,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NumbersDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="examples.NumbersDemo" />
+    <configuration name="NumbersDemoInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.NumbersDemoInteractive" />
       <module name="Chapter-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -146,8 +156,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NumbersDemoInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="examples.NumbersDemoInteractive" />
+    <configuration name="PaintCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.PaintCalculator" />
       <module name="Chapter-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -210,19 +220,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.NumbersDemo" />
       <item itemvalue="Application.NumbersDemoInteractive" />
       <item itemvalue="Application.percentages" />
       <item itemvalue="Application.MetricConversion" />
       <item itemvalue="Application.FahrenheitToCelsiusConversion" />
+      <item itemvalue="Application.PaintCalculator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PaintCalculator" />
         <item itemvalue="Application.FahrenheitToCelsiusConversion" />
         <item itemvalue="Application.MetricConversion" />
         <item itemvalue="Application.percentages" />
         <item itemvalue="Application.NumbersDemoInteractive" />
-        <item itemvalue="Application.NumbersDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -275,6 +285,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/examples/FahrenheitToCelsiusConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/examples/QuartsToGallonsInteractive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -389,8 +406,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/examples/FahrenheitToCelsiusConversion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="510">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/PaintCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
         </state>
       </provider>
     </entry>

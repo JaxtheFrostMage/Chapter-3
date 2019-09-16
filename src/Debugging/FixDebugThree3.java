@@ -1,5 +1,5 @@
 // This application gets a user's name and displays a greeting
-package examples;
+package Debugging;
 import java.util.Scanner;
 public class FixDebugThree3
 {
